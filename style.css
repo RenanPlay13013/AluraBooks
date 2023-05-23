@@ -3,4 +3,8 @@
 }
 body{background-color: var(--cor-de-fundo);
 }
-h1{background-color: rgb(69, 138, 138);}
+h1{background-color: rgb(35, 78, 78);
+position:absolute}
+
+.logo{
+    position:absolute}
