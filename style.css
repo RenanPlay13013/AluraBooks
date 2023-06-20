@@ -1,10 +1,14 @@
-:root{
-    --cor-de-fundo:#334974;
+.title{
+    background-color: rgb(130, 22, 151);
 }
-body{background-color: var(--cor-de-fundo);
-}
-h1{background-color: rgb(35, 78, 78);
-position:absolute}
-
 .logo{
-    position:absolute}
+width: 200px ;
+height: 150px ;
+position: absolute;
+}
+.milkshake{
+position: absolute;
+    width: 200px;
+    height: 150px;
+   object-position: bottom;
+}
