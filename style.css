@@ -1,14 +1,21 @@
 .title{
     background-color: rgb(130, 22, 151);
 }
-.logo{
+.hamburguer{
 width: 200px ;
 height: 150px ;
 position: absolute;
 }
-.milkshake{
+.hamburguer2{
 position: absolute;
+
     width: 200px;
     height: 150px;
-   object-position: bottom;
+   bottom: 80px;
+}
+.hamburguer3{
+position: absolute;
+width: 200px;
+height: 150px;
+bottom: -80px;
 }
